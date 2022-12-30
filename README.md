@@ -53,7 +53,7 @@ To start the project, it is necessary to download the files from the github repo
 ## References
 
 - I made this project with the help of Jonas Schmedtmann in the JavaScript course: [JavaScript course](https://www.udemy.com/course/the-complete-javascript-course/), where I later changed and adjusted the project to my liking.
-- I used a large number of array methods in the app, that's why I improved my level of knowledge about working with arrays in this project.
+- I used a large number of array methods in the app, that's why I improved my level of knowledge about working with arrays.
 
 [Back To The Top](#bankist-app)
 
