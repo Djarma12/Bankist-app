@@ -1,6 +1,7 @@
 # Bankist-app
 
-![application layout](image.jpg)
+![dates-numbers-timers-bankist netlify app](https://user-images.githubusercontent.com/112414082/210040475-1d1db6fa-cfdc-448a-8eb8-17d9f5fdb966.png)
+
 
 The Bankist application is an application in which the user can make transactions, where information is sent to the database on which date and which transaction was made. In order for the user to be able to see his bank account, he must log in.
 
