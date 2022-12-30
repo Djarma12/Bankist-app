@@ -24,6 +24,7 @@ You can view the project live here:
 - This application contains two user accounts whose names are:<br>
   Name: js <br>Password: 1111<br>
   Name: jd<br> Code: 2222
+  
 - When we log in to any account, the first thing that starts is the timer, which counts down for two minutes, if we do nothing, where it will log out by itself.
 - The application shows us how much and on which date we made a transaction on the account. We can sort transactions from largest to smallest or by default by date.
 - We can send money from one account to another. If we write the amount to be transferred that is larger than the money we have, we will not be able to complete the transaction. Otherwise, by logging in to another account, we will see the gain in the amount we previously entered.
